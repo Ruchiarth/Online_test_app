@@ -1,0 +1,162 @@
+
+
+{
+    "questions": [{
+            "questionText": "AngularJS is a ____",
+            "options": [{
+                    "text": "Java Framework "
+                    
+                },
+                {
+                    "text": "JavaScript Framework",
+                    "correct": true
+                },
+                {
+                    "text": "HTML Framework"
+                },
+                {
+                    "text": "SQL framework"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "AngularJS is perfect for? ",
+            "options": [{
+                    "text": "MPAs"                
+                 },
+                {
+                    "text": " DPAs"
+                },
+                {
+                    "text": "CPAs"
+                },
+                {
+                    "text": "SPAs",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "AngularJS provides reusable components",
+            "options": [{
+                    "text": "true",
+                    "correct": true
+                },
+                {
+                    "text": "false"
+                   
+                }
+                
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Choose the correct syntax for writing AngularJS expression.",
+            "options": [{
+                    "text": "[expression]"
+                },
+                {
+                    "text": "{{expressions}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{{expressions}}}"
+                },
+                {
+                    "text": "{expressions}"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Choose the reactor which is used to bind the application data to the HTML view in AngularJS.",
+            "options": [{
+                    "text": "ng-bind directive",
+                    "correct": true
+                },
+                {
+                    "text": "ng-model directive"
+                },
+                {
+                    "text": "ng-init directive"
+                },
+                {
+                    "text": "ng-app directive"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Who is the father of AngularJS?",
+            "options": [{
+                    "text": "Misko Hevery",
+                    "correct": true
+                },
+                {
+                    "text": "Brad Green"
+                },
+                {
+                    "text": "Mike Adams"
+                },
+                {
+                    "text": "  Adam a bronze"
+                  
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Angular JS is completely based on HTML and JavaScript.",
+            "options": [{
+                    "text": "True",
+                    "correct": true
+                },
+                {
+                    "text": "false"
+                   
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Among the following choose the one which is responsible for the startup of the angular 2 projects.",
+            "options": [{
+                    "text": "main.ts",                    
+                    "correct": true
+                },
+                {
+                    "text": "app.ts"
+                },
+                {
+                    "text": "index.ts"
+                },
+                {
+                    "text": "angular.cli.json"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "How is interpolation in angular 2 done?",
+            "options": [{
+                    "text": "{{ }}",
+                    "correct": true
+                },
+                {
+                    "text": "{{{ }}}"
+                },
+                {
+                    "text": "{{|var}}"
+                    
+                },
+                {
+                    "text": "!!!!"
+                }
+            ],
+            "explanation": ""
+        }
+       
+    ]
+}

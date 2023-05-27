@@ -1,0 +1,19 @@
+.card {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+li {
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.list-group-item:hover {
+    border: 1px solid red;
+}
+
+ul {
+    padding: 0;
+}
